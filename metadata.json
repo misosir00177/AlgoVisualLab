@@ -1,0 +1,6 @@
+{
+  "name": "AlgoVisual Lab",
+  "description": "An interactive algorithm visualizer for sorting, searching, and more, with real-time complexity analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
